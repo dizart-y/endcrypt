@@ -22,6 +22,7 @@ git clone https://github.com/dizart-y
 ls
 cd endcrypt
 python2 ENDCRYPTpython2.py
+
 ===============
 WARNING !!! 
 ===============
