@@ -23,9 +23,7 @@ ls
 cd endcrypt
 python2 ENDCRYPTpython2.py
 
-===============
 WARNING !!! 
-===============
 
 Sebelum Install Alangkah Nya Penyimpanan Di Termux Di izinkan Terlebih Dahulu
 Sebab Kalau Tidak Di Izinkan Maka Script Yang Kita Encript Tidak Bisa 
